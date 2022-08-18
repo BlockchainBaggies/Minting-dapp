@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5e507Fd111E0ab886cE9B0B11461Ceb7633069e3",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5e507fd111e0ab886ce9b0b11461ceb7633069e3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BlockchainBaggies",
+  "SYMBOL": "BCB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 40000000000000000000,
+  "DISPLAY_COST": 40,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/blockchainbaggies",
+  "SHOW_BACKGROUND": true
+}
